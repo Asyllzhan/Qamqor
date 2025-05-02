@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611619332482",
+    "project_id": "qamqor1-d61c2",
+    "storage_bucket": "qamqor1-d61c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611619332482:android:e52bcbdf874badfb7f6f9b",
+        "android_client_info": {
+          "package_name": "com.example.qamqor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloLt1ynGcpChxEuwn-Mg3GaiB3eAc7-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
